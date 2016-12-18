@@ -1,0 +1,30 @@
+header {
+    background: #3b7b7d;
+    color: #fff;
+    padding: 15px;
+    margin-bottom: 15px;
+    font-weight: bolder;
+}
+
+header a {
+    color: yellow;
+    text-decoration: underline;
+}
+.input-group {
+    max-width: 400px;
+    padding: 7px 0px;
+}
+
+.tab-content {
+    max-width: 400px;
+}
+
+.nav-tabs {
+    max-width: 400px;
+}
+
+.center {
+    margin: auto;
+    width: 400px;
+    margin-top: 10%;
+}
